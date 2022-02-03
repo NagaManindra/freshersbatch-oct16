@@ -1,4 +1,4 @@
-describe('creation', function () {
+describe('creations', function () {
   it('html2pdf should exist', function () {
     expect(window.html2pdf).to.exist;
   });
